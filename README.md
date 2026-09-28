@@ -1,6 +1,6 @@
 # Hi, I'm Mohit Kumar
 
-**Senior Software Engineer** — 3+ years building full-stack and backend systems across EdTech, analytics, and enterprise CRM domains.
+**Software Engineer (Backend)** — 3+ years building full-stack and backend systems across EdTech, analytics, and enterprise CRM domains.
 
 📍 New Delhi, India · 📫 mohitkumar72956@gmail.com · [LinkedIn](https://www.linkedin.com/in/mohit-kumar-17a551212/)
 
