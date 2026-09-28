@@ -8,6 +8,16 @@
 
 I design and ship scalable backend systems and full-stack applications — from microservices architecture and REST/GraphQL APIs to production deployments on Docker, Kubernetes, and AWS. I'm currently mentoring software engineers in DSA and System Design at Programming Pathshala, after building a real-time leaderboard platform at Coding Blocks and enterprise CRM workflows at Cubastion Consulting.
 
+## Open-source contributions
+
+| Project | Contribution | Status |
+|---|---|---|
+| [OpenRewrite](https://github.com/openrewrite/rewrite-testing-frameworks) | [Fixed the Mockito 1 → 5 migration skipping `anyXOf` matchers called through `org.mockito.Mockito`, with a regression test](https://github.com/openrewrite/rewrite-testing-frameworks/pull/1130) | ✅ Merged |
+| [OpenRewrite](https://github.com/openrewrite/rewrite-testing-frameworks) | [`ExpectedExceptionToAssertThrows`: declare the captured exception with the matcher's exception type](https://github.com/openrewrite/rewrite-testing-frameworks/pull/1129) | 🔄 In review |
+| [Testcontainers Python](https://github.com/testcontainers/testcontainers-python) | [Fixed infinite Ryuk recursion when `TESTCONTAINERS_HUB_IMAGE_NAME_PREFIX` is set](https://github.com/testcontainers/testcontainers-python/pull/1120) | 🔄 In review |
+| [Testcontainers Java](https://github.com/testcontainers/testcontainers-java) | [Fixed single-file classpath JAR resources being extracted onto the shared temp directory](https://github.com/testcontainers/testcontainers-java/pull/12088) | 🔄 In review |
+| [Testcontainers Java](https://github.com/testcontainers/testcontainers-java) | [Added `getMappedPort(int, InternetProtocol)` for UDP port lookups](https://github.com/testcontainers/testcontainers-java/pull/12086) | 🔄 In review |
+
 ## Tech stack
 
 | Category | Tools |
