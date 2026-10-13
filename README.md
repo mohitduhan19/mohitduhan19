@@ -4,11 +4,21 @@
 
 📍 New Delhi, India · 📫 mohitkumar72956@gmail.com · [LinkedIn](https://www.linkedin.com/in/mohit-kumar-17a551212/)
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mohitduhan19&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true" height="165" alt="GitHub stats"/>
+  <img src="https://streak-stats.demolab.com?user=mohitduhan19&theme=tokyonight&hide_border=true" height="165" alt="GitHub streak"/>
+</p>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=mohitduhan19&theme=tokyonight&no-frame=true&no-bg=true&column=6&margin-w=10" alt="GitHub trophies"/>
+</p>
+
 ## About
 
 I design and ship scalable backend systems and full-stack applications — from microservices architecture and REST/GraphQL APIs to production deployments on Docker, Kubernetes, and AWS. I'm currently mentoring software engineers in DSA and System Design at Programming Pathshala, after building a real-time leaderboard platform at Coding Blocks and enterprise CRM workflows at Cubastion Consulting.
 
 ## Open-source contributions
+
+**3 merged PRs · 9 in review** across OpenRewrite, Pylint, Testcontainers and OpenAPI Generator — [see all](https://github.com/pulls?q=author%3Amohitduhan19+is%3Apr+-user%3Amohitduhan19)
 
 | Project | Contribution | Status |
 |---|---|---|
@@ -19,6 +29,11 @@ I design and ship scalable backend systems and full-stack applications — from 
 | [Testcontainers Python](https://github.com/testcontainers/testcontainers-python) | [Fixed infinite Ryuk recursion when `TESTCONTAINERS_HUB_IMAGE_NAME_PREFIX` is set](https://github.com/testcontainers/testcontainers-python/pull/1120) | 🔄 In review |
 | [Testcontainers Java](https://github.com/testcontainers/testcontainers-java) | [Fixed single-file classpath JAR resources being extracted onto the shared temp directory](https://github.com/testcontainers/testcontainers-java/pull/12088) | 🔄 In review |
 | [Testcontainers Java](https://github.com/testcontainers/testcontainers-java) | [Added `getMappedPort(int, InternetProtocol)` for UDP port lookups](https://github.com/testcontainers/testcontainers-java/pull/12086) | 🔄 In review |
+| [OpenRewrite](https://github.com/openrewrite/rewrite-testing-frameworks) | [`MigrateAssertionFailedError`: leave source files using `junit.framework.TestResult` untouched](https://github.com/openrewrite/rewrite-testing-frameworks/pull/1175) | 🔄 In review |
+| [OpenRewrite](https://github.com/openrewrite/rewrite-testing-frameworks) | [`ParameterizedRunnerToParameterized`: run setup methods after the parameters are assigned](https://github.com/openrewrite/rewrite-testing-frameworks/pull/1169) | 🔄 In review |
+| [OpenRewrite](https://github.com/openrewrite/rewrite-testing-frameworks) | [`ParameterizedRunnerToParameterized`: migrate classes whose `@Parameters` method is inherited](https://github.com/openrewrite/rewrite-testing-frameworks/pull/1139) | 🔄 In review |
+| [OpenAPI Generator](https://github.com/OpenAPITools/openapi-generator) | [[core] Keep explicit `inlineSchemaNameMappings` when several inline schemas map to one name](https://github.com/OpenAPITools/openapi-generator/pull/25181) | 🔄 In review |
+| [OpenAPI Generator](https://github.com/OpenAPITools/openapi-generator) | [[python] Support OpenAPI 3.1 properties with type `null`](https://github.com/OpenAPITools/openapi-generator/pull/25180) | 🔄 In review |
 
 ## Tech stack
 
