@@ -8,9 +8,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=mohitduhan19&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true" height="165" alt="GitHub stats"/>
   <img src="https://streak-stats.demolab.com?user=mohitduhan19&theme=tokyonight&hide_border=true" height="165" alt="GitHub streak"/>
 </p>
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mohitduhan19&theme=tokyonight&no-frame=true&no-bg=true&column=6&margin-w=10" alt="GitHub trophies"/>
-</p>
 
 ## About
 
