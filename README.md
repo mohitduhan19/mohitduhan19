@@ -4,10 +4,6 @@
 
 📍 New Delhi, India · 📫 mohitkumar72956@gmail.com · [LinkedIn](https://www.linkedin.com/in/mohit-kumar-17a551212/)
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=mohitduhan19&theme=tokyonight&hide_border=true" height="165" alt="GitHub streak"/>
-</p>
-
 ## About
 
 I design and ship scalable backend systems and full-stack applications — from microservices architecture and REST/GraphQL APIs to production deployments on Docker, Kubernetes, and AWS. I'm currently mentoring software engineers in DSA and System Design at Programming Pathshala, after building a real-time leaderboard platform at Coding Blocks and enterprise CRM workflows at Cubastion Consulting.
