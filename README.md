@@ -5,7 +5,6 @@
 📍 New Delhi, India · 📫 mohitkumar72956@gmail.com · [LinkedIn](https://www.linkedin.com/in/mohit-kumar-17a551212/)
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mohitduhan19&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true" height="165" alt="GitHub stats"/>
   <img src="https://streak-stats.demolab.com?user=mohitduhan19&theme=tokyonight&hide_border=true" height="165" alt="GitHub streak"/>
 </p>
 
