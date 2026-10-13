@@ -10,13 +10,19 @@ I design and ship scalable backend systems and full-stack applications — from 
 
 ## Open-source contributions
 
-**3 merged PRs · 9 in review** across OpenRewrite, Pylint, Testcontainers and OpenAPI Generator — [see all](https://github.com/pulls?q=author%3Amohitduhan19+is%3Apr+-user%3Amohitduhan19)
+Merged contributions to **OpenRewrite** and **Pylint** · more in review at **Testcontainers**, **OpenAPI Generator** and OpenRewrite — [see all PRs](https://github.com/pulls?q=author%3Amohitduhan19+is%3Apr+-user%3Amohitduhan19)
 
 | Project | Contribution | Status |
 |---|---|---|
 | [OpenRewrite](https://github.com/openrewrite/rewrite-testing-frameworks) | [Fixed the Mockito 1 → 5 migration skipping `anyXOf` matchers called through `org.mockito.Mockito`, with a regression test](https://github.com/openrewrite/rewrite-testing-frameworks/pull/1130) | ✅ Merged |
 | [OpenRewrite](https://github.com/openrewrite/rewrite-testing-frameworks) | [`MigrateJUnitTestCase`: leave `TestCase` subclasses overriding `run(TestResult)` untouched instead of producing non-compiling code](https://github.com/openrewrite/rewrite-testing-frameworks/pull/1168) | ✅ Merged |
 | [Pylint](https://github.com/pylint-dev/pylint) | [Raise a clear error when several `--output-format` reporters all write to stdout instead of printing every message once per format](https://github.com/pylint-dev/pylint/pull/11602) | ✅ Merged |
+
+<details>
+<summary><b>In progress</b> (under review)</summary>
+
+| Project | Contribution | Status |
+|---|---|---|
 | [OpenRewrite](https://github.com/openrewrite/rewrite-testing-frameworks) | [`ExpectedExceptionToAssertThrows`: declare the captured exception with the matcher's exception type](https://github.com/openrewrite/rewrite-testing-frameworks/pull/1129) | 🔄 In review |
 | [Testcontainers Python](https://github.com/testcontainers/testcontainers-python) | [Fixed infinite Ryuk recursion when `TESTCONTAINERS_HUB_IMAGE_NAME_PREFIX` is set](https://github.com/testcontainers/testcontainers-python/pull/1120) | 🔄 In review |
 | [Testcontainers Java](https://github.com/testcontainers/testcontainers-java) | [Fixed single-file classpath JAR resources being extracted onto the shared temp directory](https://github.com/testcontainers/testcontainers-java/pull/12088) | 🔄 In review |
@@ -26,6 +32,8 @@ I design and ship scalable backend systems and full-stack applications — from 
 | [OpenRewrite](https://github.com/openrewrite/rewrite-testing-frameworks) | [`ParameterizedRunnerToParameterized`: migrate classes whose `@Parameters` method is inherited](https://github.com/openrewrite/rewrite-testing-frameworks/pull/1139) | 🔄 In review |
 | [OpenAPI Generator](https://github.com/OpenAPITools/openapi-generator) | [[core] Keep explicit `inlineSchemaNameMappings` when several inline schemas map to one name](https://github.com/OpenAPITools/openapi-generator/pull/25181) | 🔄 In review |
 | [OpenAPI Generator](https://github.com/OpenAPITools/openapi-generator) | [[python] Support OpenAPI 3.1 properties with type `null`](https://github.com/OpenAPITools/openapi-generator/pull/25180) | 🔄 In review |
+
+</details>
 
 ## Tech stack
 
