@@ -14,6 +14,7 @@ Merged contributions to **OpenRewrite** and **Pylint** · more in review at **Te
 
 | Project | Contribution | Status |
 |---|---|---|
+| [OpenRewrite](https://github.com/openrewrite/rewrite-migrate-java) | [`AddJaxwsRuntime`: stop adding the old javax JAX-WS runtime when the project already uses Jakarta XML Web Services API 3.0 or later, which broke `jakarta.xml.ws` imports](https://github.com/openrewrite/rewrite-migrate-java/pull/1294) | ✅ Merged |
 | [OpenRewrite](https://github.com/openrewrite/rewrite-testing-frameworks) | [Fixed the Mockito 1 → 5 migration skipping `anyXOf` matchers called through `org.mockito.Mockito`, with a regression test](https://github.com/openrewrite/rewrite-testing-frameworks/pull/1130) | ✅ Merged |
 | [OpenRewrite](https://github.com/openrewrite/rewrite-testing-frameworks) | [`MigrateJUnitTestCase`: leave `TestCase` subclasses overriding `run(TestResult)` untouched instead of producing non-compiling code](https://github.com/openrewrite/rewrite-testing-frameworks/pull/1168) | ✅ Merged |
 | [Pylint](https://github.com/pylint-dev/pylint) | [Raise a clear error when several `--output-format` reporters all write to stdout instead of printing every message once per format](https://github.com/pylint-dev/pylint/pull/11602) | ✅ Merged |
