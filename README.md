@@ -10,11 +10,12 @@ I design and ship scalable backend systems and full-stack applications — from 
 
 ## Open-source contributions
 
-Merged contributions to **Apache Iggy**, **OpenRewrite** and **Pylint** · more in review at **Testcontainers**, **OpenAPI Generator** and OpenRewrite — [see all PRs](https://github.com/pulls?q=author%3Amohitduhan19+is%3Apr+-user%3Amohitduhan19)
+Merged contributions to **Apache Iggy**, **OpenAPI Generator**, **OpenRewrite** and **Pylint** · more in review at **Testcontainers**, **OpenAPI Generator** and OpenRewrite — [see all PRs](https://github.com/pulls?q=author%3Amohitduhan19+is%3Apr+-user%3Amohitduhan19)
 
 | Project | Contribution | Status |
 |---|---|---|
 | [Apache Iggy](https://github.com/apache/iggy) | [Java SDK: build TCP clients from `iggy://` connection strings (`fromConnectionString` on the blocking and async builders, with TLS options), matching the Rust, Node and C# SDKs](https://github.com/apache/iggy/pull/4504) | ✅ Merged |
+| [OpenAPI Generator](https://github.com/OpenAPITools/openapi-generator) | [[go] Escape control characters in schema `pattern`s written into `validate:"regexp=..."` struct tags, which made generated Go models fail to compile with `illegal character NUL`](https://github.com/OpenAPITools/openapi-generator/pull/25269) | ✅ Merged |
 | [OpenRewrite](https://github.com/openrewrite/rewrite-migrate-java) | [`AddJaxwsRuntime`: stop adding the old javax JAX-WS runtime when the project already uses Jakarta XML Web Services API 3.0 or later, which broke `jakarta.xml.ws` imports](https://github.com/openrewrite/rewrite-migrate-java/pull/1294) | ✅ Merged |
 | [OpenRewrite](https://github.com/openrewrite/rewrite-testing-frameworks) | [Fixed the Mockito 1 → 5 migration skipping `anyXOf` matchers called through `org.mockito.Mockito`, with a regression test](https://github.com/openrewrite/rewrite-testing-frameworks/pull/1130) | ✅ Merged |
 | [OpenRewrite](https://github.com/openrewrite/rewrite-testing-frameworks) | [`MigrateJUnitTestCase`: leave `TestCase` subclasses overriding `run(TestResult)` untouched instead of producing non-compiling code](https://github.com/openrewrite/rewrite-testing-frameworks/pull/1168) | ✅ Merged |
