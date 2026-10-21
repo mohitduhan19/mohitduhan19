@@ -10,7 +10,7 @@ I design and ship scalable backend systems and full-stack applications — from 
 
 ## Open-source contributions
 
-Merged contributions to **Apache Iggy**, **OpenAPI Generator**, **OpenRewrite** and **Pylint** · more in review at **Testcontainers**, **OpenAPI Generator** and OpenRewrite — [see all PRs](https://github.com/pulls?q=author%3Amohitduhan19+is%3Apr+-user%3Amohitduhan19)
+Merged contributions to **Apache Iggy**, **OpenAPI Generator**, **OpenRewrite**, **Pylint** and **gRPC** · more in review at **Testcontainers**, **OpenAPI Generator** and OpenRewrite — [see all PRs](https://github.com/pulls?q=author%3Amohitduhan19+is%3Apr+-user%3Amohitduhan19)
 
 | Project | Contribution | Status |
 |---|---|---|
@@ -20,6 +20,7 @@ Merged contributions to **Apache Iggy**, **OpenAPI Generator**, **OpenRewrite** 
 | [OpenRewrite](https://github.com/openrewrite/rewrite-testing-frameworks) | [Fixed the Mockito 1 → 5 migration skipping `anyXOf` matchers called through `org.mockito.Mockito`, with a regression test](https://github.com/openrewrite/rewrite-testing-frameworks/pull/1130) | ✅ Merged |
 | [OpenRewrite](https://github.com/openrewrite/rewrite-testing-frameworks) | [`MigrateJUnitTestCase`: leave `TestCase` subclasses overriding `run(TestResult)` untouched instead of producing non-compiling code](https://github.com/openrewrite/rewrite-testing-frameworks/pull/1168) | ✅ Merged |
 | [Pylint](https://github.com/pylint-dev/pylint) | [Raise a clear error when several `--output-format` reporters all write to stdout instead of printing every message once per format](https://github.com/pylint-dev/pylint/pull/11602) | ✅ Merged |
+| [gRPC](https://github.com/grpc/grpc-node) | [grpc-js: match `no_proxy` entries only against the host itself or its subdomains instead of by plain string suffix, so `local.com` no longer bypasses the proxy for `notlocal.com`](https://github.com/grpc/grpc-node/pull/3109) | ✅ Merged |
 
 <details>
 <summary><b>In progress</b> (under review)</summary>
